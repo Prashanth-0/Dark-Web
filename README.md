@@ -15,11 +15,8 @@ This repository provides a list of dark web search engines, other useful .onion 
 
 | Site | Description | URL |
 |------|-------------|-----|
-| **ProtonMail** | Secure email service with end-to-end encryption. | [https://protonirockerxow.onion](https://protonirockerxow.onion) |
 | **Hidden Wiki** | Directory of useful .onion sites. | [http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page) |
-| **BBC Tor Mirror** | Unrestricted version of BBC News. | [http://bbcnewsv2vjtpsuy.onion](http://bbcnewsv2vjtpsuy.onion) |
 | **TorLinks** | Backup directory for Onion sites. | [http://torlinksge6enmcyyuxjpjkoouw4oorgdgeo7ftnq3zodj7g2zxi3kyd.onion](http://torlinksge6enmcyyuxjpjkoouw4oorgdgeo7ftnq3zodj7g2zxi3kyd.onion) |
-| **Sci-Hub** | Access to scientific papers and journals. | [https://sci-hub.se](https://sci-hub.se) |
 | **CIA** | Unfiltered content about the CIA. | [http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion](http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion) |
 
 ## Dark Web Social Media Platforms
@@ -27,4 +24,6 @@ This repository provides a list of dark web search engines, other useful .onion 
 | Platform       | Description | URL |
 |----------------|-------------|-----|
 | **Facebook** | Dark web version of Facebook for private and secure social networking. | [https://m.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/?wtsid=rdr_0o2o2nhgYDxaHdPWg](https://m.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/?wtsid=rdr_0o2o2nhgYDxaHdPWg) |
+| **Reddit** | Dark web version of Reddit for community discussions. | [https://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/?rdt=38731](https://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/?rdt=38731) |
+
 
